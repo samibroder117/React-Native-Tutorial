@@ -1,11 +1,7 @@
-# Sample Snack app
+Technology: I am going to teach myself about React Native.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Rationale: My group's grocery list app is going to be written with React Native. I do not have much exposure to this framework, so I would like to learn more about it to best contribute to my group's project. 
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Tutorial: https://www.simplilearn.com/react-native-tutorial-article
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Video of my result: https://drive.google.com/file/d/1GxaanT3ZQEus-Od9s4L7HvtsLbsGpFxw/view?usp=share_link
